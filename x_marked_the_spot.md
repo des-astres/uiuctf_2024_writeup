@@ -1,8 +1,8 @@
-# UIUCTF 2024 Writeup: X marked the spot
+# UIUCTF 2024 Writeup: X Marked the Spot
 
 On 30 June 2024, I took part in my very first competitive CTF, as part of the APT42 team.  
 The event was UIUCTF 2024, a jeopardy CTF with challenges in various categories.  
-I picked a cryptography challenge titled "X marked the spot" that seemed beginner-friendly.
+I picked a cryptography challenge titled "X Marked the Spot" that seemed beginner-friendly.
 
 ## Challenge
 
